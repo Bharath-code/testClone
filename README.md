@@ -1,0 +1,2 @@
+# testClone
+Practizing git functionality
